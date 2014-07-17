@@ -4,8 +4,8 @@
    For licensing information see
                   http://www.cs.utexas.edu/users/flame/license.html 
 
-   Programmed by: Name of author
-                  Email of author
+   Programmed by: Scott Enriquez
+                  scottie@scott-enriquez.net
                                                                      */
 
 #include "FLAME.h"
