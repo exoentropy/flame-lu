@@ -1,3 +1,12 @@
+/* Copyright 2013 The University of Texas at Austin  
+ 
+   For licensing information see
+                  http://www.cs.utexas.edu/users/flame/license.html 
+
+   Programmed by: Scott Enriquez
+                  scottie@scott-enriquez.net
+                                                                     */
+
 #include "FLAME.h"
 
 int LU_unb_var5( FLA_Obj A )
