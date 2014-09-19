@@ -37,7 +37,7 @@ int main(int argc, char *argv[])
     A, Aref, Aold, delta;
   
   /* Initialize FLAME */
-  FLA_Init( );
+  FLA_Init();
 
   /* Every time trial is repeated "repeat" times and the fastest run in recorded */
   printf( "%% number of repeats:" );
@@ -536,7 +536,7 @@ int main(int argc, char *argv[])
   printf( "print -r100 -dpdf LU.pdf\n");
 #endif
 
-  FLA_Finalize( );
+  FLA_Finalize();
 
-  exit( 0 );
+  exit(0);
 }
